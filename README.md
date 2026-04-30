@@ -4,9 +4,72 @@
 
 # Hi there, I'm Milan! 👋
 
-### MSc Artificial Intelligence Student | Software Engineer 🚀
+### AI & Machine Learning Specialist | Software Engineer 🤖
+I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Computer Science**[cite: 2]. I specialize in building **AI-native applications** and **bespoke software solutions**. My focus is on leveraging machine learning and computer vision to solve complex, real-world problems.
 
-I am a technically-driven postgraduate student specializing in **AI-Native Development**, **Machine Learning**, and **Bespoke Software Engineering**. With a 2:1 in Computer Science and an ongoing MSc in AI, I bridge the gap between traditional software architecture and modern intelligent systems.
+---
+
+### 💻 Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+</div>
+
+---
+
+### 📂 Featured Research & Projects
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Endoscopy Research Suite](https://github.com/Milan-Odedra/Endoscopy-Test-Suite)** | Bespoke GUI for clinical perception testing and data scoring[cite: 1, 2]. | Python, OpenCV, CSV |
+| **[Avian ML Pipeline](https://github.com/Milan-Odedra/Avian-ML-Pipeline)** | Ecological species classification using advanced statistical modeling. | Python, Scikit-learn |
+| **[COVID-19 Analytics](https://github.com/Milan-Odedra/COVID-19-Data-Analysis)** | Data refining and visualization pipeline for global healthcare trends[cite: 2]. | Python, Pandas, Seaborn |
 
 ---
 
@@ -14,43 +77,6 @@ I am a technically-driven postgraduate student specializing in **AI-Native Devel
 <p align="left">
 <a href="https://linkedin.com/in/modedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modedra" height="30" width="40" /></a>
 </p>
-
----
-
-### 💻 Technologies & Tools
-**Languages & Core Tech**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
-</p>
-
-**AI & Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="sklearn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="opencv" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="numpy" />
-</p>
-
----
-
-### 🛠️ Current Focus
-- 🎓 **MSc Dissertation:** Developing [Insert brief focus here, e.g., intelligent spatial logic systems].
-- 🤖 **AI-Native Engineering:** Exploring prompt literacy and LLM integration for software automation.
-- 🏥 **Multimedia Research:** Refining computer vision suites for clinical education (OpenCV).
-
----
-
-### 📂 Featured Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Avian ML Pipeline](https://github.com/Milan-Odedra/Avian-ML-Pipeline)** | High-dimensional ecological classification achieving 0.88 F1-Score. | Python, Scikit-learn |
-| **[Endoscopy Research Suite](https://github.com/Milan-Odedra/Endoscopy-Test-Suite)** | Bespoke GUI tool for clinical perception testing and data logging. | Python, OpenCV, CSV |
-| **[COVID-19 Analytics](https://github.com/Milan-Odedra/COVID-19-Data-Analysis)** | Data cleaning and visualization pipeline for international health data. | Python, Pandas, Seaborn |
 
 ---
 
