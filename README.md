@@ -13,7 +13,6 @@ I am a technically-driven postgraduate student specializing in **AI-Native Devel
 ### 💼 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/modedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modedra" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="email" height="30" /></a>
 </p>
 
 ---
