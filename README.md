@@ -67,11 +67,11 @@ I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Comp
 ### 📂 Featured Research & Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Endoscopy Research Suite](https://github.com/Milan-Odedra/Endoscopy-Test-Suite)** | Bespoke GUI for clinical perception testing and data scoring[cite: 1, 2]. | Python, OpenCV, CSV |
-| **[Avian ML Pipeline](https://github.com/Milan-Odedra/Avian-ML-Pipeline)** | Ecological species classification using advanced statistical modeling. | Python, Scikit-learn |
-| **[COVID-19 Analytics](https://github.com/Milan-Odedra/COVID-19-Data-Analysis)** | Data refining and visualization pipeline for global healthcare trends[cite: 2]. | Python, Pandas, Seaborn |
+| **[Colonoscopy Training Simulator](https://github.com/milan-odedra/Colonoscopy_MultiMedia_TrainingSim)** | Bespoke GUI for clinical perception testing and data scoring. | Python, OpenCV, CSV |
+| **[Avian ML Pipeline](https://github.com/milan-odedra/Bird-Species-Classification-Engine)** | Ecological species classification using advanced statistical modeling. | Python, Scikit-learn |
+| **[COVID-19 Analytics](https://github.com/milan-odedra/COVID-19-Data-Processing-and-Visualization)** | Data refining and visualization pipeline for global healthcare trends. | Python, Pandas, Seaborn |
 
-> **Note:** Many of my projects were originally developed in private academic environments and have been migrated here to showcase stable versions of the source code[cite: 1, 2].
+> **Note:** Many of my projects were originally developed in private academic environments and have been migrated here to showcase stable versions of the source code.
 
 ---
 
