@@ -80,14 +80,5 @@ I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Comp
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milan-Odedra&show_icons=true&theme=radical&hide_border=true" alt="Milan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan-Odedra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 *In my free time, I play online chess to keep my strategic thinking sharp—much like optimizing a neural network, every move counts!* ♟️
