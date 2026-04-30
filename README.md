@@ -71,6 +71,8 @@ I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Comp
 | **[Avian ML Pipeline](https://github.com/Milan-Odedra/Avian-ML-Pipeline)** | Ecological species classification using advanced statistical modeling. | Python, Scikit-learn |
 | **[COVID-19 Analytics](https://github.com/Milan-Odedra/COVID-19-Data-Analysis)** | Data refining and visualization pipeline for global healthcare trends[cite: 2]. | Python, Pandas, Seaborn |
 
+> **Note:** Many of my projects were originally developed in private academic environments and have been migrated here to showcase stable versions of the source code[cite: 1, 2].
+
 ---
 
 ### 💼 Connect with me:
