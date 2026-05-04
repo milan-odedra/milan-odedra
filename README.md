@@ -83,4 +83,4 @@ I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Comp
 ---
 
 ### ⚡ Fun Fact
-*In my free time, I play online chess to keep my strategic thinking sharp—much like optimizing a neural network, every move counts!* ♟️
+*In my free time I love playing games, running and learning new skills like langauges.*
