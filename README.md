@@ -4,8 +4,8 @@
 
 # Hi there, I'm Milan! 👋
 
-### AI & Machine Learning Specialist | Software Engineer 🤖
-I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Computer Science**[cite: 2]. I specialize in building **AI-native applications** and **bespoke software solutions**. My focus is on leveraging machine learning and computer vision to solve complex, real-world problems.
+### Software Engineer | AI & Machine Learning Specialist 🚀
+I am an **MSc Artificial Intelligence graduate** from Liverpool John Moores University with a **BSc (2:1) in Computer Science**. I build full-stack data applications, containerized microservices, and practical software solutions. My background combines rigorous software engineering and testing principles with applied machine learning to deliver reliable, production-ready systems.
 
 ---
 
@@ -64,12 +64,14 @@ I am an **MSc Artificial Intelligence student** at LJMU with a **2:1 BSc in Comp
 
 ---
 
-### 📂 Featured Research & Projects
+### 📂 Featured Projects & Systems
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Colonoscopy Training Simulator](https://github.com/milan-odedra/Colonoscopy_MultiMedia_TrainingSim)** | Bespoke GUI for clinical perception testing and data scoring. | Python, OpenCV, CSV |
-| **[Avian ML Pipeline](https://github.com/milan-odedra/Bird-Species-Classification-Engine)** | Ecological species classification using advanced statistical modeling. | Python, Scikit-learn |
-| **[COVID-19 Analytics](https://github.com/milan-odedra/COVID-19-Data-Processing-and-Visualization)** | Data refining and visualization pipeline for global healthcare trends. | Python, Pandas, Seaborn |
+| **[Player-Centric Football Forecasting](https://github.com/milan-odedra/player-centric-football-forecasting)** | Full-stack forecasting & odds valuation platform with automated data integrity tests and an interactive Streamlit dashboard. | Python, PyTorch, Streamlit, Data Testing |
+| **[TensorFlow Serving Microservice](https://github.com/milan-odedra/tensorflow-object-detection-serving)** | Containerized object detection service running Flask and TF Serving via REST APIs, Docker Compose, and unit test suites. | Docker Compose, Flask, REST APIs, TensorFlow |
+| **[CampusCare](https://github.com/milan-odedra/CampusCare)** | Full-stack web portal for student service management, handling secure user requests and database record tracking. | PHP, MySQL, JavaScript, Bootstrap |
+
+> **Note:** Many of my projects were originally developed in academic and clinical environments and are maintained here to demonstrate clean architecture, end-to-end testing, and deployment standards.
 
 > **Note:** Many of my projects were originally developed in private academic environments and have been migrated here to showcase stable versions of the source code.
 
