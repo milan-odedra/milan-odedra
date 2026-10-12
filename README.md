@@ -1,88 +1,65 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Milan%20Odedra&fontSize=70" />
-</p>
+# Milan Odedra
 
-# Hi there, I'm Milan! 👋
+## AI-focused Software Engineer
 
-### Software Engineer | AI & Machine Learning Specialist 🚀
-I am an **MSc Artificial Intelligence graduate** from Liverpool John Moores University with a **BSc (2:1) in Computer Science**. I build full-stack data applications, containerized microservices, and practical software solutions. My background combines rigorous software engineering and testing principles with applied machine learning to deliver reliable, production-ready systems.
+I am an MSc Artificial Intelligence graduate from Liverpool John Moores University, with a BSc in Computer Science (2:1).
 
----
+I build practical software and machine-learning systems across the stack, with a strong focus on applied AI, forecasting, data analysis, backend development, and model deployment.
 
-### 💻 Tools & Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-</div>
+My work includes MSc dissertation research, academic coursework, and independent software projects that demonstrate experience across AI, data systems, and full-stack engineering.
+
+## Areas of Interest
+
+I am currently exploring different areas of software and data engineering, with a growing interest in:
+
+- Applied machine learning and AI
+- Data analysis and predictive modelling
+- Backend development and REST APIs
+- Full-stack applications
+- Data-intensive software systems
+- Cloud and containerised development
+- Reproducible experimentation and evaluation
 
 ---
 
-### 📂 Featured Projects & Systems
+### Featured Projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Player-Centric Football Forecasting](https://github.com/milan-odedra/player-centric-football-forecasting)** | Full-stack forecasting & odds valuation platform with automated data integrity tests and an interactive Streamlit dashboard. | Python, PyTorch, Streamlit, Data Testing |
-| **[TensorFlow Serving Microservice](https://github.com/milan-odedra/tensorflow-object-detection-serving)** | Containerized object detection service running Flask and TF Serving via REST APIs, Docker Compose, and unit test suites. | Docker Compose, Flask, REST APIs, TensorFlow |
-| **[CampusCare](https://github.com/milan-odedra/CampusCare)** | Full-stack web portal for student service management, handling secure user requests and database record tracking. | PHP, MySQL, JavaScript, Bootstrap |
-
-> **Note:** Many of my projects were originally developed in academic and clinical environments and are maintained here to demonstrate clean architecture, end-to-end testing, and deployment standards.
-
-> **Note:** Many of my projects were originally developed in private academic environments and have been migrated here to showcase stable versions of the source code.
+| **[Player-Centric Football Forecasting](https://github.com/milan-odedra/player-centric-football-forecasting)** | Full-stack football forecasting and odds-valuation platform with automated data-integrity tests and an interactive Streamlit dashboard. | Python, PyTorch, Streamlit |
+| **[TensorFlow Serving Microservice](https://github.com/milan-odedra/tensorflow-object-detection-serving)** | Containerised object-detection service using Flask and TensorFlow Serving, exposed through REST APIs and orchestrated with Docker Compose. | TensorFlow, Flask, REST APIs, Docker Compose |
+| **[CampusCare](https://github.com/milan-odedra/CampusCare)** | Full-stack web portal for managing student service requests, user interactions, and database records. | PHP, MySQL, JavaScript, Bootstrap |
 
 ---
 
-### 💼 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/modedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modedra" height="30" width="40" /></a>
-</p>
+### Technical Skills
+
+**Programming:** Python, SQL, JavaScript, PHP, Java  
+**Machine Learning:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy  
+**Backend & APIs:** Flask, REST APIs  
+**Databases:** MySQL, MongoDB  
+**Development & Deployment:** Git, Linux, Docker, Jupyter  
+**Web Development:** HTML, CSS, Bootstrap, Node.js
 
 ---
 
-### ⚡ Fun Fact
-*In my free time I love playing games, running and learning new skills like langauges.*
+### Education
+
+**MSc Artificial Intelligence**  
+Liverpool John Moores University
+
+**BSc Computer Science — 2:1**
+
+---
+
+### Approach
+
+I value clear problem definition, strong baselines, reproducible experiments, and honest reporting of results.
+
+I am especially interested in projects where software engineering and machine learning need to work together to solve a practical problem.
+
+---
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/modedra)
